@@ -8,7 +8,7 @@ BMI serves as a straightforward tool to assess whether an individual's weight al
 $$ BMI = {weight(kg) \over height(m)^2} $$
 
 ### Demo:
-You can try out a live demo of the BMI Calculator here. 
+You can try out a live demo of the BMI Calculator here. https://pranavyadu.github.io/Bmi-Calculator/
 
 ## Core Functionality
 
