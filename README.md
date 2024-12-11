@@ -29,7 +29,8 @@ You can try out a live demo of the BMI Calculator here. https://pranavyadu.githu
 
 ## Calculator Snapshots
 
-![bmi calculator](https://github.com/user-attachments/assets/dbc0fd01-eaeb-42d0-b96d-8616b0e211b1)
+![bmi calculator](https://github.com/user-attachments/assets/e0e6cfbb-0b04-47ac-ad42-bd8e6ca860d3)
+
 
 ## Acknowledgments
 
