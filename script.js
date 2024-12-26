@@ -33,7 +33,7 @@ function resetResults() {
   exportBtn.style.display = "none";
 
   // Reset the BMI result and comment to default values
-  document.querySelector("#result").innerHTML = "0.00";
+  document.querySelector("#result").innerHTML = "00.00";
   document.querySelector(".comment").innerHTML = ""; // Clear the comment
   resultArea.style.display = "none"; // Hide the result area
 }
